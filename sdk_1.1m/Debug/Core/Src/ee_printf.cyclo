@@ -1,0 +1,13 @@
+../Core/Src/ee_printf.c:37:18:strnlen	3
+../Core/Src/ee_printf.c:44:12:skip_atoi	3
+../Core/Src/ee_printf.c:51:14:number	27
+../Core/Src/ee_printf.c:128:14:eaddr	8
+../Core/Src/ee_printf.c:150:14:iaddr	10
+../Core/Src/ee_printf.c:195:6:ee_bufcpy	2
+../Core/Src/ee_printf.c:201:13:parse_float	23
+../Core/Src/ee_printf.c:304:13:decimal_point	7
+../Core/Src/ee_printf.c:331:13:cropzeros	10
+../Core/Src/ee_printf.c:347:14:flt	19
+../Core/Src/ee_printf.c:404:12:ee_vsprintf	44
+../Core/Src/ee_printf.c:566:6:uart_send_char	1
+../Core/Src/ee_printf.c:572:5:ee_printf	2

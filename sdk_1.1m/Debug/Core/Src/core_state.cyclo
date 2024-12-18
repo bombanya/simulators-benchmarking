@@ -1,0 +1,4 @@
+../Core/Src/core_state.c:43:8:core_bench_state	9
+../Core/Src/core_state.c:116:6:core_init_state	9
+../Core/Src/core_state.c:168:14:ee_isdigit	1
+../Core/Src/core_state.c:184:17:core_state_transition	26
